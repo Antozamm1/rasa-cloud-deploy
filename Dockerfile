@@ -1,4 +1,4 @@
-FROM rasa/rasa:3.4.0
+FROM rasa/rasa:latest
 
 COPY . .
 
