@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rasa run -p ${PORT} --cors "*"
+rasa run -m 20210610-205250.tar.gz -p ${PORT} --cors "*"
